@@ -46,8 +46,24 @@ const cities = [
     label: 'Shenzhen',
   },
   {
-    value: 'Guangzhou',
-    label: 'Guangzhou',
+    value: 'Gu1angzhou',
+    label: 'Guan1gzhou',
+  },
+  {
+    value: 'Gua12ngzhou',
+    label: 'Gua21n1gzhou',
+  },
+  {
+    value: 'Gu21angzhou',
+    label: 'Gu21an1gzhou',
+  },
+  {
+    value: 'Guaewqngzhou',
+    label: 'Gdasuangzhou',
+  },
+  {
+    value: 'Gudsadsangzhou',
+    label: 'Guandassdagzhou',
   },
 ]
 </script>
